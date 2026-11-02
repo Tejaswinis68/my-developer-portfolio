@@ -32,3 +32,14 @@ Interested in Web Development
 * Contribute to open-source projects.
 
 Goal: Become a Skilled Software Developer
+
+## Projects
+
+### 1. Personal Developer Portfolio
+
+Building a personal portfolio using GitHub to showcase my programming skills, interests and learning journey.
+
+### 2. Library Management System
+
+Planning to develop a database project using SQL to manage books, members and issue records.
+
