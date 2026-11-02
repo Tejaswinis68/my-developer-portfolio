@@ -30,3 +30,5 @@ Interested in Web Development
 * Become a skilled software developer.
 * Improve my programming skills.
 * Contribute to open-source projects.
+
+Goal: Become a Skilled Software Developer
