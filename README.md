@@ -11,5 +11,7 @@ and learning new technologies.
 
 Interested in web development
 
+Goal: Become a skilled software developer
+
 This repository contains my learning journey
 and development skills.
