@@ -43,3 +43,9 @@ Building a personal portfolio using GitHub to showcase my programming skills, in
 
 Planning to develop a database project using SQL to manage books, members and issue records.
 
+## Collaboration Log
+
+- Partner Name: Yashmitha S
+- GitHub Username:Yashmitha-S 
+- Work Completed: Created a greet() function using Live Share.
+- Learning: Learned how to collaborate in real time using Live Share and track code changes using GitLens.
